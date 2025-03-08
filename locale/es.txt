@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_78334548_73EB_CD89_41C4_F2B3CA956DB8.label = DSCN0176 Panorama
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Jardin360
