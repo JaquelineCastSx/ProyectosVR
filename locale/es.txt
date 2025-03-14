@@ -1,0 +1,25 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_9EE53DE7_92EF_508C_41C0_32718D553146.label = DSCN0176 Panorama
+
+## Menú VR
+
+### Texto
+MenuItem_9E8A5603_92F7_7384_41C9_4A4EE8D54383.label = DSCN0176 Panorama
+Menu_9E9365B5_92F7_708C_41D5_73C74876EA77.label = Media
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Jardin360
